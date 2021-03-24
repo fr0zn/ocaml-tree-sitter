@@ -37,3 +37,6 @@
 [submodule "lang/semgrep-grammars/src/tree-sitter-scala"]
 	path = lang/semgrep-grammars/src/tree-sitter-scala
 	url = https://github.com/tree-sitter/tree-sitter-scala.git
+[submodule "lang/semgrep-grammars/src/tree-sitter-solidity"]
+	path = lang/semgrep-grammars/src/tree-sitter-solidity
+	url = https://github.com/fr0zn/tree-sitter-solidity

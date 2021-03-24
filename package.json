@@ -14,6 +14,7 @@
     "tree-sitter-ruby": "file:lang/semgrep-grammars/src/tree-sitter-ruby",
     "tree-sitter-rust": "file:lang/semgrep-grammars/src/tree-sitter-rust",
     "tree-sitter-scala": "file:lang/semgrep-grammars/src/tree-sitter-scala",
+    "tree-sitter-solidity": "file:lang/semgrep-grammars/src/tree-sitter-solidity",
     "tree-sitter-typescript": "file:lang/semgrep-grammars/src/tree-sitter-typescript"
   }
 }
