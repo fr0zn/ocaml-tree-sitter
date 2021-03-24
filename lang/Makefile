@@ -22,7 +22,8 @@ SUPPORTED_TS_LANGUAGES = \
   ruby \
   rust \
   scala \
-  typescript
+  typescript \
+  solidity
 
 # Includes all language variants e.g. typescript and tsx
 SUPPORTED_LANGUAGES = $(SUPPORTED_TS_LANGUAGES) tsx
@@ -44,7 +45,8 @@ STAT_LANGUAGES = \
   rust \
   scala \
   tsx \
-  typescript
+  typescript \
+  solidity
 
 # Build and test each language. Does not run parsing stats (see 'stat:').
 #
