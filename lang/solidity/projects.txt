@@ -2,3 +2,5 @@
 # one per line.
 #
 https://github.com/ethereum/solidity-examples
+https://github.com/ajlopez/SoliditySamples
+https://github.com/raineorshine/solidity-by-example
